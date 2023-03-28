@@ -1,0 +1,2 @@
+# inicio
+inicienado en git
